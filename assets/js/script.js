@@ -32,7 +32,7 @@ mobileNavbar.init();
 
 // ! REVEAL MODE
 window.sr = ScrollReveal({ reset: true})
-sr.reveal('.reveal', {duration: 2000})
+sr.reveal('.reveal', {duration: 1000})
 // ! REVEAL MODE
 
 // ? CHANGE WORD
