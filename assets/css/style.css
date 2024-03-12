@@ -127,7 +127,7 @@ header{
     .github{
         height: 100%;
         width:  30%;
-
+        text-align: center;
         border: 2px solid #FF6100;
         border-radius: 5px;
         color: #FF6100;
